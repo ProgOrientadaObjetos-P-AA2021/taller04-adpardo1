@@ -169,10 +169,10 @@
       <dia:attribute name="attributes">
         <dia:composite type="umlattribute">
           <dia:attribute name="name">
-            <dia:string>#ced#</dia:string>
+            <dia:string>#ced#</dia:int>
           </dia:attribute>
           <dia:attribute name="type">
-            <dia:string>#String#</dia:string>
+            <dia:string>#int#</dia:int>
           </dia:attribute>
           <dia:attribute name="value">
             <dia:string>##</dia:string>
